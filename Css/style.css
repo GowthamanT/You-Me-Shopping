@@ -192,15 +192,20 @@ font-family: 'Yesteryear', cursive; */
     top:-27px;
 }
 
+.third-container-img {
+    position: relative;
+    right: 16px;
+}
+
 .third-container-text {
     font-family: 'Pacifico', cursive;
     padding-top: 300px;
     text-align: center;
-    font-size: 70px;
+    font-size: 60px;
 }
 
 .third-container-text1 {
-    padding-top: 30px;
+    padding-top: 20px;
     text-align: center;
     font-size: 25px;
 }
