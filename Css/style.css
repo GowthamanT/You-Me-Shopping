@@ -1,0 +1,206 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+/* font-family: 'Arizonia', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Marck Script', cursive;
+font-family: 'Montez', cursive;
+font-family: 'Mr Dafoe', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Reenie Beanie', cursive;
+font-family: 'Rock Salt', cursive;
+font-family: 'Yesteryear', cursive; */
+
+.logo {
+    height:30px;
+    width:30px;
+}
+
+.nav-link {
+    color:black;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.profile-icon {
+    font-size: 22px;
+}
+
+.cart-icon {
+    font-size: 20px;
+}
+
+.search-icon {
+    font-size: 18px;
+}
+
+.search-input {
+    width:300px;
+    border: none;
+    border-radius: 8px;
+}
+
+.form-control {
+    height: 30px;
+}
+
+.form-control::placeholder {
+    font-size: 13px;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+#nav-menu {
+    color:black;
+}
+
+#nav-menu:hover {
+    color:#0278ae;
+}
+
+.form-control:focus {
+    outline: none;
+    border: none;
+}
+
+.headquote1 {
+    position: absolute;
+    top: 300px;
+    left:150px;
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.headquote2 {
+    position: absolute;
+    top: 300px;
+    right: 100px;
+    font-size: 45px;
+    font-weight: bolder;    
+}
+
+.second-container {
+    height: 700px;
+    /* border:1px solid blue; */
+
+}
+
+.second-heading {
+    font-family: 'Pacifico', cursive;
+}
+
+.second-subheading {
+    font-family: 'Marck Script', cursive;
+    position: relative;
+    left: 70px;
+    top : -10px;
+}
+
+.second-headingcontainer {
+    position: relative;
+    top : 200px;
+    text-align: center;
+    /* border:1px solid blue; */
+}
+
+.second-content {
+    position: relative;
+    top : 200px;
+    text-align: center;
+}
+
+.img-text1 {
+    font-family: 'Caveat', cursive;
+    position: absolute;
+    top:1720px;
+    padding-left:950px;
+    font-size: 70px;
+}
+
+.img-text2 {
+    /* font-family: 'Caveat', cursive; */
+    font-family: 'Niconne', cursive;
+    position: absolute;
+    top:2100px;
+    padding-left:900px;
+    font-size: 60px;
+}
+
+.men-container-text1 {
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    text-transform: uppercase;
+    /* color: #3e4152; */
+    color: black;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 40px 0 45px 0px;
+    max-height: 5em;
+    font-weight: 500;
+    text-align: center;
+}
+
+.women-container-text1 {
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    text-transform: uppercase;
+    /* color: #3e4152; */
+    color: black;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 40px 0 45px 0px;
+    max-height: 5em;
+    font-weight: 500;
+    text-align: center;
+}
+
+.couple-container-text1 {
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    text-transform: uppercase;
+    /* color: #3e4152; */
+    color: black;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 40px 0 45px 0px;
+    max-height: 5em;
+    font-weight: 500;
+    text-align: center;
+}
+
+.card {
+    background: none;
+    border: none;
+}
+
+.cardimg-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3e4152;
+    font-weight: 600;
+    font-size: 20px;
+    position: relative;
+    right: 8px;
+    top:-10px;
+}
+
+.cardimg-text2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    position: relative;
+    right: 8px;
+    top:-27px;
+}
+
+.third-container-text {
+    font-family: 'Pacifico', cursive;
+    padding-top: 300px;
+    text-align: center;
+    font-size: 70px;
+}
+
+.third-container-text1 {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 25px;
+}

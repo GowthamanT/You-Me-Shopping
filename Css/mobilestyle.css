@@ -1,0 +1,13 @@
+@media (max-width: 576px) { 
+    .logo {
+        height:30px;
+        width:30px;
+    } 
+    .navbar-toggler {
+        border: none;
+    }
+    .navbar-toggler-icon {
+        height: 30px;
+        width: 30px;
+    }
+}
