@@ -4,6 +4,12 @@ body {
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
 
+body::-webkit-scrollbar {
+    display: none;
+    margin: 0;
+    /* font-family: Arial, Helvetica, sans-serif; */
+  }
+
 /* font-family: 'Arizonia', cursive;
 font-family: 'Dancing Script', cursive;
 font-family: 'Marck Script', cursive;
@@ -69,7 +75,7 @@ font-family: 'Yesteryear', cursive; */
 
 .headquote1 {
     position: absolute;
-    top: 300px;
+    top: 350px;
     left:150px;
     font-size: 45px;
     font-weight: bolder;
@@ -77,7 +83,7 @@ font-family: 'Yesteryear', cursive; */
 
 .headquote2 {
     position: absolute;
-    top: 300px;
+    top: 355px;
     right: 100px;
     font-size: 45px;
     font-weight: bolder;    
@@ -125,7 +131,7 @@ font-family: 'Yesteryear', cursive; */
     /* font-family: 'Caveat', cursive; */
     font-family: 'Niconne', cursive;
     position: absolute;
-    top:2200px;
+    top:2000px;
     padding-left:860px;
     font-size: 60px;
 }
